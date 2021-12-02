@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=akashpatil.me&style=for-the-badge&url=https%3A%2F%2Fakashpatil.me)](https://akashpatil.me/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/skypatil98?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskypatil98&screen_name=skypatil98)
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrpatil&show_icons=true&theme=radical)
 
 <img align="right" alt="GIF" src="https://github.com/akashrpatil/profile/blob/main/coding.gif?raw=true" width="408" height="318" />
