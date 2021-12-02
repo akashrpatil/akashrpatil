@@ -1,9 +1,7 @@
-### Hi there I'm Akash - aka [skypatil][website] 👋👋<br />
+### Hi there I'm Akash - aka [skypatil][website] 👋👋 <br />
 
 [![Website](https://img.shields.io/website?label=akashpatil.me&style=for-the-badge&url=https%3A%2F%2Fakashpatil.me)](https://akashpatil.me/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/skypatil98?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskypatil98&screen_name=skypatil98)
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrpatil&show_icons=true&theme=radical)
 
 Things that I love:<br />
 🌱 I’m currently learning everything 🤣<br />
@@ -37,6 +35,10 @@ CVE-2021-24445<br />
 CVE-2021-24487<br />
 CVE-2021-24485<br />
 CVE-2021-24899<br />
+
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrpatil&show_icons=true&theme=radical)
+
 
 ### Connect with me:
 
