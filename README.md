@@ -11,10 +11,10 @@
 
 ### Things that I love:<br />
 🌱 I’m currently learning everything 🤣<br />
-📕 #infoseclearner<br />
-🖥️ Hacking<br />
-📒 Learning stuff<br />
-🌎 Bug Bounty Hunter<br />
+📕 #infoseclearner <br />
+🖥️ Hacking <br />
+📒 Learning stuff <br />
+🌎 Bug Bounty Hunter <br />
 ⚡ Fun fact: 🎹 Professional Keyboard Player<br />
 
 
@@ -25,10 +25,10 @@
 🎓 BSc.IT | ( Mumbai University )<br />
 
 ### Where I'm Going 🧭<br />
-loading...<br />
+loading.....<br />
 
 ### My Projects 🚧<br />
-loading...<br />
+loading.....<br />
 
 ### 💬 Ask me about ...<br />
 Pentesting<br />
