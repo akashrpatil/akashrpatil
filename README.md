@@ -5,12 +5,14 @@ Hi there I'm Akash - aka [skypatil][website] 👋👋<br />
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrpatil&show_icons=true&theme=radical)
 
-##Things that I love:<br />
+Things that I love:<br />
+🌱 I’m currently learning everything 🤣<br />
 📕 #infoseclearner<br />
 🖥️ Hacking<br />
 📒 Learning stuff<br />
 🌎 Bug Bounty Hunter<br />
-🎹 Professional Keyboard Player<br />
+⚡ Fun fact: 🎹 Professional Keyboard Player<br />
+
 
 Where I've Been 🛣<br />
 ⚔️ Qseap Infotech Pvt Ltd (Information Security Consultant)<br />
