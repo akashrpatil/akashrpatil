@@ -18,7 +18,6 @@
 ⚡ Fun fact: 🎹 Professional Keyboard Player<br />
 
 
-
 ### Where I've Been 🛣<br />
 ⚔️ Qseap Infotech Pvt Ltd (Information Security Consultant)<br />
 🌐 Hack-X Security (Intern)<br />
@@ -42,7 +41,6 @@ CVE-2021-24445<br />
 CVE-2021-24487<br />
 CVE-2021-24485<br />
 CVE-2021-24899<br />
-
 
 ### Connect with me:
 
