@@ -3,7 +3,8 @@ Hi there I'm Akash - aka [skypatil][website] 👋👋<br />
 [![Website](https://img.shields.io/website?label=akashpatil.me&style=for-the-badge&url=https%3A%2F%2Fakashpatil.me)](https://akashpatil.me/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/skypatil98?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskypatil98&screen_name=skypatil98)
 
-Things that I love:<br />
+
+##Things that I love:<br />
 📕 #infoseclearner<br />
 🖥️ Hacking<br />
 📒 Learning stuff<br />
@@ -34,6 +35,12 @@ CVE-2021-24487<br />
 CVE-2021-24485<br />
 CVE-2021-24899<br />
 
-Connect with me: 🤝<br />
-https://twitter.com/skypatil98<br />
-linkedin.com/in/akashpatil98/<br />
+### Connect with me:
+
+[<img align="left" alt="akashpatil.e" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="akashpatil98 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="skypatil98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="akashpatil98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="akashpatilofficial | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
