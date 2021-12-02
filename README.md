@@ -5,6 +5,8 @@
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrpatil&show_icons=true&theme=radical)
 
+<img align="right" alt="GIF" src="https://github.com/akashrpatil/profile/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 ### Things that I love:<br />
 🌱 I’m currently learning everything 🤣<br />
 📕 #infoseclearner<br />
@@ -14,7 +16,6 @@
 ⚡ Fun fact: 🎹 Professional Keyboard Player<br />
 
 
-<img align="right" alt="GIF" src="https://github.com/akashrpatil/profile/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 ### Where I've Been 🛣<br />
 ⚔️ Qseap Infotech Pvt Ltd (Information Security Consultant)<br />
