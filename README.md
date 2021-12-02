@@ -14,6 +14,8 @@
 ⚡ Fun fact: 🎹 Professional Keyboard Player<br />
 
 
+<img align="right" alt="GIF" src="https://github.com/akashrpatil/profile/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 ### Where I've Been 🛣<br />
 ⚔️ Qseap Infotech Pvt Ltd (Information Security Consultant)<br />
 🌐 Hack-X Security (Intern)<br />
