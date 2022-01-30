@@ -15,7 +15,7 @@
 🖥️ Hacking <br />
 📒 Learning stuff <br />
 🌎 Bug Bounty Hunter <br />
-⚡ Fun fact: 🎹 Professional Keyboard Player<br />
+⚡ Hobbies: 🎹 Professional Keyboard Player<br />
 
 
 ### Where I've Been 🛣<br />
