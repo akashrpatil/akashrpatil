@@ -34,6 +34,7 @@ loading.....<br />
 Pentesting<br />
 Bug Bounties<br />
 Music<br />
+Graphics<br />
 
 ### CVEs 🐛<br />
 CVE-2021-24448 ( wordpress plugins )<br />
