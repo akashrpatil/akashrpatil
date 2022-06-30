@@ -44,6 +44,7 @@ CVE-2021-24487<br />
 CVE-2021-24485<br />
 CVE-2021-24899<br />
 CVE-2022-0418<br />
+CVE-2022-1046<br />
 
 ### Connect with me: <img src="https://raw.githubusercontent.com/akashrpatil/akashrpatil/main/handshake.gif" height="22px"></h3>
 <p align="center">
