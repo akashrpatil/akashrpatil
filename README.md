@@ -45,7 +45,8 @@ CVE-2021-24485<br />
 CVE-2021-24899<br />
 CVE-2022-0418<br />
 
-### Connect with me:
+### Connect with me: <img src="https://raw.githubusercontent.com/akashrpatil/akashrpatil/main/handshake.gif" height="32px"></h3>
+<p align="center">
 
 [<img align="left" alt="akashpatil.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://akashpatil.me/)
 [<img align="left" alt="akashpatil98 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/akshpatil98)
