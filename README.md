@@ -54,5 +54,5 @@ CVE-2022-1046<br />
 [<img align="left" alt="skypatil98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/skypatil98)
 [<img align="left" alt="akashpatil98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akashpatil98/)
 [<img align="left" alt="akashpatilofficial | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/akashpatilofficial/)
-
+[![@akashrpatil's Holopin board](https://holopin.io/api/user/board?user=akashrpatil)](https://holopin.io/@akashrpatil)
 <br />
