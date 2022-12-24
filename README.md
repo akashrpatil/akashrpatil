@@ -15,8 +15,9 @@
 🖥️ Hacking <br />
 📒 Learning stuff <br />
 🌎 Bug Bounty Hunter <br />
-⚡ Hobbies: 🎹 Professional Keyboard Player<br />
-            📈 Graphic Designer<br />
+⚡ Hobbies: 
+🎹 Professional Keyboard Player<br />
+📈 Graphic Designer<br />
 
 
 ### Where I've Been 🛣<br />
