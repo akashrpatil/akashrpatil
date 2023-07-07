@@ -14,7 +14,7 @@
 📕 #infoseclearner <br />
 🖥️ Hacking <br />
 📒 Learning stuff <br />
-🌎 Bug Bounty Hunter <br />
+🌎 Bug Bounty Hunter, Red Teams & Pentests <br />
 ⚡ Hobbies: <br />
 🎹 Professional Keyboard Player<br />
 📈 Graphic Designer<br />
