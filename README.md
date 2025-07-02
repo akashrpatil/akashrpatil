@@ -21,6 +21,7 @@
 
 
 ### Where I've Been 🛣<br />
+⚔️ HDFC (Cyber Security Risk Manager)<br />
 ⚔️ Security Brigade Pvt Ltd (Associate Team Lead)<br />
 ⚔️ Qseap Infotech Pvt Ltd (Information Security Consultant)<br />
 🌐 Hack-X Security (Intern)<br />
